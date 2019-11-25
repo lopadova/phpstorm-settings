@@ -1,5 +1,10 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="DBNavigator.Actions.MainMenu.MethodExecutionHistory" />
+  <action id="EditorMatchBrace" />
   <action id="EditorToggleCase" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
