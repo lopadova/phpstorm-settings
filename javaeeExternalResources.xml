@@ -1,6 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$APPLICATION_HOME_DIR$/jbr/bin/file:/C:/Users/lopad/.PhpStorm2019.3/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/jbr/bin/file:/C:/Users/lopad/.PhpStorm2019.3/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$APPLICATION_HOME_DIR$/jbr/bin/file:/C:/Users/lopad/AppData/Roaming/JetBrains/PhpStorm2020.1/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$APPLICATION_HOME_DIR$/jbr/bin/file:/C:/Users/lopad/AppData/Roaming/JetBrains/PhpStorm2020.1/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
   </component>
 </application>
