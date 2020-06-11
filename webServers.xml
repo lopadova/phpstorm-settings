@@ -4,9 +4,6 @@
       <webServer id="fc5daaed-a8cc-43dd-a19b-32343da655df" name="laravel-notifier" url="http://localhost">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
-      <webServer id="7be52d90-8a36-433f-918a-37c0b149254b" name="giannichiarini.local" url="https://giannichiarini.local">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
     </option>
   </component>
 </application>
