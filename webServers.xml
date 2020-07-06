@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="49dd0bed-a768-4567-a84e-b35b50efbfc5" name="www.date-sneakers.com" url="http://www.date-sneakers.com">
+        <fileTransfer rootFolder="/httpdocs" host="213.171.166.164" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
