@@ -8,6 +8,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="928d3b88-a6ab-4f79-9441-072596cfacd4" name="helpdesk.local" url="https://helpdesk.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
