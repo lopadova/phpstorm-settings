@@ -11,9 +11,6 @@
       <webServer id="0811d8e6-0563-4e33-ac1d-6d513283bef2" name="biotek.local" url="http://biotek.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
-      <webServer id="154ebe19-4633-493e-94c2-5306db27c238" name="www.nencinisport.it" url="https://www.nencinisport.it">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
     </option>
   </component>
 </application>
