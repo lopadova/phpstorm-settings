@@ -11,6 +11,9 @@
       <webServer id="0811d8e6-0563-4e33-ac1d-6d513283bef2" name="biotek.local" url="http://biotek.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="e7b17260-75d4-411d-a535-2620f530cae7" name="speseppp.padosoft.com" url="https://speseppp.padosoft.com">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
