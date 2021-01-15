@@ -14,6 +14,9 @@
       <webServer id="e7b17260-75d4-411d-a535-2620f530cae7" name="speseppp.padosoft.com" url="https://speseppp.padosoft.com">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="f3a65811-b722-4659-929d-203da175b888" name="sivisgest.padosoft.com" url="https://sivisgest.padosoft.com">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
