@@ -17,6 +17,9 @@
       <webServer id="f3a65811-b722-4659-929d-203da175b888" name="sivisgest.padosoft.com" url="https://sivisgest.padosoft.com">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="4de8af71-c909-45d3-a8ea-83bf2639e50c" name="FattEle" url="http://localhost/FattEle">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
